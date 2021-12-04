@@ -1,9 +1,9 @@
 # DataScience_Project
  Credit Card Fraud Detection
 
-Este repositória visa armazenar o Projeto da Disciplina de Tópicos Especiais em Engenharia Física do semestre de 2021/2.
+Este repositório visa armazenar o Projeto da Disciplina de Tópicos Especiais em Engenharia Física do semestre de 2021/2.
 
-Neste projeto, foi realizado um estudo sobre os melhores algoritmos de ML para serem aplicados à Detecção de Fraudes em Cartões de Crédito e, mediante escolhe do melhor, foi gerada sua implementação sem auxílio de bibliotecas Python prontas.
+Neste projeto, foi realizado um estudo sobre os melhores algoritmos de ML para serem aplicados à Detecção de Fraudes em Cartões de Crédito e, mediante escolha do melhor, foi gerada sua implementação sem auxílio de bibliotecas Python prontas.
 
 
 
