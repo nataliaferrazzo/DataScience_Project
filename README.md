@@ -1,5 +1,16 @@
 # DataScience_Project
+
+
  Credit Card Fraud Detection
+
+This repo aims to store the Project of Special Topics in Engineering Physics class of the 2nd semester of 2021.
+
+In this project, it was made an analysis of the bests ML algorithms to be applied to Credit Card Fraud detection and, through choosing the best, it was implemented without use of any Python pre-built library.
+
+
+______________________________________________________________________
+
+ Detecção de Fraudes em Cartões de Crédito
 
 Este repositório visa armazenar o Projeto da Disciplina de Tópicos Especiais em Engenharia Física do semestre de 2021/2.
 
@@ -12,7 +23,6 @@ Neste projeto, foi realizado um estudo sobre os melhores algoritmos de ML para s
 Guilherme Martins Soares
 Natália Capra Ferrazzo
 Rafael Correa de Lima
-
 
 
 
